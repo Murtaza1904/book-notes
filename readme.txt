@@ -1,5 +1,5 @@
 === Book Notes ===
-Contributors: yourusername
+Contributors: Muhammad Murtaza
 Tags: books, notes, custom post type, shortcode, rest-api
 Requires at least: 6.0
 Tested up to: 6.6
@@ -57,3 +57,4 @@ First stable release.
 == License ==
 
 This plugin is free software; you can redistribute it and/or modify it under the terms of the GPLv2 or later.
+
